@@ -1,4 +1,4 @@
 # AP
 Advanced Programming practice projects, labs, and problem sets
 
-Worked on labs and problem sets with 2-3 classmates in groups, but a couple labs/problem sets had to be completed individually and some portions of the labs/problem sets had to be completed individually as well
+Worked on labs and problem sets with two to three classmates, though some of the labs and problem sets required individual completion, and some of the labs and problem sets required individual completion in some instances.
