@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AdventOfCode
+comment0.text=\n\ Use\ the\ binary\ numbers\ in\ the\ diagnostic\ report\ to\ generate\ two\ new\ binary\ numbers\ \n\ (called\ the\ gamma\ rate\ and\ the\ epsilon\ rate).\n\n\ @author\ Saif\ Ullah\n\ @version\ Feb\ 1,\ 2022\n
+comment1.params=agrs
+comment1.target=void\ main(java.lang.String[])
+numComments=2
